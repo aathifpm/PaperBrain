@@ -1,6 +1,6 @@
-# MinimalRAG - Lightweight NotebookLM Clone
+# 📚 PaperBrain - Your documents, AI-powered answers
 
-A minimal Retrieval-Augmented Generation (RAG) chatbot that lets you upload documents and ask questions about them.
+A powerful Retrieval-Augmented Generation (RAG) chatbot that lets you upload documents and get AI-powered answers to your questions.
 
 ## Features
 
@@ -17,9 +17,9 @@ A minimal Retrieval-Augmented Generation (RAG) chatbot that lets you upload docu
 pip install -r requirements.txt
 ```
 
-2. Set up your API key:
-```bash
-export GOOGLE_API_KEY="your-gemini-api-key-here"
+2. Set up your API key in a `.env` file:
+```
+GOOGLE_API_KEY=your-gemini-api-key-here
 ```
 
 3. Run the app:

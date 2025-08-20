@@ -11,7 +11,7 @@ load_dotenv()
 
 # Page config
 st.set_page_config(
-    page_title="MinimalRAG",
+    page_title="PaperBrain",
     page_icon="📚",
     layout="wide"
 )
@@ -27,7 +27,7 @@ if 'document_count' not in st.session_state:
     st.session_state.document_count = 0
 
 # Title and description
-st.title("📚 MinimalRAG - Your Document Q&A Assistant")
+st.title("📚 PaperBrain - Your documents, AI-powered answers")
 st.markdown("Upload documents and ask questions about them!")
 
 # Sidebar for document upload

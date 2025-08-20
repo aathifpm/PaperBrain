@@ -26,7 +26,7 @@ class Config:
     ALLOWED_EXTENSIONS = ['pdf', 'txt', 'docx']
     
     # UI settings
-    PAGE_TITLE = "MinimalRAG"
+    PAGE_TITLE = "PaperBrain"
     PAGE_ICON = "📚"
     
     @classmethod
