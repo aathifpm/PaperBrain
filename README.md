@@ -5,7 +5,7 @@
 PaperBrain is a cutting-edge **Retrieval-Augmented Generation (RAG)** chatbot that allows seamless document uploads and delivers AI-powered, contextually-aware answers. With advanced semantic search and vector embeddings, PaperBrain makes your documents interactive, searchable, and easy to explore.
 
 ---
-
+Demo: https://paperbrain.streamlit.app
 ## ✨ Highlights
 
 ### 🎯 **Core Features**
